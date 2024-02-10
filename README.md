@@ -1,6 +1,6 @@
 # Dashboard Project
 
-Website with a blend of articles about beauty, fashion, and wellness.
+Application to visualize various statistics via cards and charts.
 
 ![Dashboard Project preview image](./project-preview.jpeg)
 
